@@ -1,0 +1,3 @@
+[submodule "blinkenlights"]
+	path = blinkenlights
+	url = https://github.com/blinkenlights/blinkenlights
