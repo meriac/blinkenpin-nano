@@ -22,6 +22,8 @@
  */
 
 /* Display dependencies */
+#include <FastGPIO.h>
+#define APA102_USE_FAST_GPIO
 #include <APA102.h>
 
 /* Building & BLM definitions */
